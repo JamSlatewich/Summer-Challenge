@@ -1,0 +1,6 @@
+{
+	"Type": "Ship",
+	"Subject": "ship.Name",
+	"Action": "List,Move,Observe",
+	"Arguments": ["string"]
+}
